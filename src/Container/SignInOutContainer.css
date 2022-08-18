@@ -1,0 +1,13 @@
+.paperStyle { 
+  max-width: 30em; 
+  margin: '20px auto'; 
+  min-height: 40em;
+  padding: auto;
+  position: absolute;
+  margin-left: 370px;
+  margin-top: 20px;
+}
+.MuiFormHelperText-root{
+    color: red !important;
+  }
+  
